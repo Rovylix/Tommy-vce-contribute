@@ -9,7 +9,7 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Instructors
 
-[Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.
+[Tommy Phillips](https://github.com/Rovylix) - Student, gamer, artist, and I love spaghetti.
 
 ## Students
 
